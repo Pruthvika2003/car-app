@@ -1,0 +1,19 @@
+.car-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .car-card h2 {
+    margin: 0 0 8px 0;
+    color: #333;
+  }
+  
+  .car-card p {
+    margin: 0;
+    color: #555;
+  }
+  
